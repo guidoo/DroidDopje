@@ -181,8 +181,8 @@ public class DroidDopjeActivity extends Activity {
 		          return true;
 		        }
 		        return false;
-		    } //ssh://git@github.com/guidoo/DroidDopje.git
-		    //
+		    } 
+		   
 		});
 		
 		
