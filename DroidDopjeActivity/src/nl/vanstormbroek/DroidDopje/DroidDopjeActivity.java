@@ -51,7 +51,7 @@ public class DroidDopjeActivity extends Activity {
 	private final static String BD_BASE_URL = "http://www.bierdopje.com";
 	final static int[] to = new int[] { android.R.id.text1 }; //textview in layout dropdown.xml
 	final static String[] from = new String[] { BierdopjeDBAdapter.SHOWNAME }; //table from database
-
+	final int qwe = 1;
 
 	/** Called when the activity is first created. */
 	@Override
